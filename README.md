@@ -1,4 +1,3 @@
-# codealpha_task2
 # 🎙️ Emotion Recognition from Speech
 
 Recognizing human emotions — happy, sad, angry, neutral, calm, fearful, disgust, and surprised — from raw speech audio using deep learning and acoustic signal processing, with a CNN-BiLSTM classifier and an interactive Streamlit demo.
